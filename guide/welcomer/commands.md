@@ -10,7 +10,7 @@ description: Learn more about Welcomer related Commands
 
 #### Add a Channel, where the Welcome Message will be sent:
 
-### Customize Welcomer Card Command
+### Customize Welcomer Card
 
 #### Change the Welcomer Card Size to `full/half/disable`:
 
@@ -22,7 +22,7 @@ description: Learn more about Welcomer related Commands
 
 #### Change the Text Color on the Welcomer Card:
 
-### Customize Welcomer Message Command
+### Customize Welcomer Message
 
 #### Change the Title of the Welcomer Message:
 
