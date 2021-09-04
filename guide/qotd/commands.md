@@ -12,6 +12,7 @@ description: Learn more about Question of the Day Commands
 ### Schedule QOTD on a specific Time:
 
 ## Manage QOTD Custom Questions:
+
 ### Add QOTD Custom Question:
 
 ### Remove QOTD Custom Question:
