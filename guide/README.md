@@ -18,7 +18,7 @@ description: The Best Unique Multi Purpose Reminder
 * [👮‍♂️**Moderation**](moderation/)
 * [📑**Event Logging**](eventlogging/)
 * [💡**Suggestion board**](suggestion/)
-* [😆**Fun Commands \(Meme....\)**](commands/fun/)
-* [🧾**Utility \(Misc, Info Commands\)**](commands/info/)
+* [😆**Fun Commands \(Meme....\)**](misc/fun/)
+* [🧾**Utility \(Misc, Info Commands\)**](misc/info/)
 
 **Invite the bot** [**here**](https://discord.com/api/oauth2/authorize?client_id=735147814878969968&permissions=523344&scope=bot)**. Feel free to join our** [**Support Server**](https://discord.gg/zhxZHFN) **for help as well. Scroll down, when you want to setup Bump reminder.**
