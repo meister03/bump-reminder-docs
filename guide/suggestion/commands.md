@@ -4,7 +4,7 @@ description: Learn more about Suggestion Commands
 ---
 # Suggestion Commands
 
-## Add a Suggestion Channel:
+### Add a Suggestion Channel:
 
 ### Send a Suggestion to the Suggestion Channel:
 
