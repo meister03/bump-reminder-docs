@@ -1,6 +1,6 @@
 ---
 tilte: Commands
-description: Learn more about EventLogging Moderation Commands
+description: Learn more about Moderation Commands
 ---
 # Moderation Commands
 ### Setup Moderation Commands
