@@ -40,6 +40,9 @@ description: Learn more about Bump Reminder related Commands
 #### Change the Thumbnail of the Bump Reminder Message:
 <command message = "%custom thumb <image-link>" slash = "/bump message thumbnail [image-link]" description="Sets the Thumbnail of the Embed, which is sent on the Bump Reminder Message" permissions="MANAGE_SERVER" premium='true'/>
 
+#### Change the Image of the Bump Reminder Message:
+<command message = "%custom image <image-link>" slash = "/bump message image [image-link]" description="Sets the Image of the Embed, which is sent on the Bump Reminder Message" permissions="MANAGE_SERVER" premium='true'/>
+
 ### Bump Reminder Test Command
 <command message = "%test" slash = "/bump test" description="Simulate a Bump Reminder Message to check your current Setup" cooldown="10" permissions="MANAGE_SERVER"/>
 

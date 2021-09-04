@@ -27,56 +27,56 @@ module.exports =  {
 			text: 'Vote Tracker',
 			children: [
 				'/votetracker/',
-				'/votetracker/commmands.md',
+				'/votetracker/commands.md',
 			],
 		},
 		{
 			text: 'Question of the Day',
 			children: [
 				'/qotd/',
-				'/qotd/commmands.md',
+				'/qotd/commands.md',
 			],
 		},
 		{
 			text: 'Counting',
 			children: [
 				'/counting/',
-				'/counting/commmands.md',
+				'/counting/commands.md',
 			],
 		},
 		{
 			text: 'AFK System',
 			children: [
 				'/afk/',
-				'/afk/commmands.md',
+				'/afk/commands.md',
 			],
 		},
 		{
 			text: 'Welcomer',
 			children: [
 				'/welcomer/',
-				'/welcomer/commmands.md',
+				'/welcomer/commands.md',
 			],
 		},
 		{
 			text: 'Boost Tracker',
 			children: [
 				'/boosttracker/',
-				'/boosttracker/commmands.md',
+				'/boosttracker/commands.md',
 			],
 		},
 		{
 			text: 'Moderation',
 			children: [
 				'/moderation/',
-				'/moderation/commmands.md',
+				'/moderation/commands.md',
 			],
 		},
 		{
 			text: 'Suggestion Board',
 			children: [
 				'/suggestion/',
-				'/boosttracker/commmands.md',
+				'/suggestion/commands.md',
 			],
 		},
 		{
