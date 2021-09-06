@@ -10,10 +10,10 @@ description: Learn more about Boost Tracker related Commands
 <command message = "%bsetup enable/disable" slash = "/boost setup enable/disable" description="Enables/Disables the Boost Tracker, which tracks the boosts, save stats and more..." permissions="MANAGE_SERVER"/>
 
 #### Add a Boost Messsage Channel:
-<command message = "%bsetup channel #channel" slash = "/boost setup channel [channel]" description="Sets the Boost Message Channel, where the customizable Boost Message will be sent." permissions="MANAGE_SERVER"/>
+<command message = "%bsetup channel <#channel>" slash = "/boost setup channel [channel]" description="Sets the Boost Message Channel, where the customizable Boost Message will be sent." permissions="MANAGE_SERVER"/>
 
 #### Enable/Disable Boost Log Message on Unboost/Boost/Booster left:
-<command message = "%bsetup log #channel/disable" slash = "/boost setup log [channel/disable]" description="Enables/Disables the Boost message log, where the latest BoostLB will be sent on Boost/Unboost." permissions="MANAGE_SERVER"/>
+<command message = "%bsetup log <#channel>/disable" slash = "/boost setup log [channel/disable]" description="Enables/Disables the Boost message log, where the latest BoostLB will be sent on Boost/Unboost." permissions="MANAGE_SERVER"/>
 
 #### Enable/Disable: Ability to create Custom Boost Role:
 <command message = "%bsetup createrole enable/disable <position>" slash = "/boost setup createrole [status] [position]" description="Enables/Disables the Boost Create Role Feature, where Server Boosters can create their own custom Role. When a position is given, the role will be created on the position" permissions="MANAGE_SERVER"/>

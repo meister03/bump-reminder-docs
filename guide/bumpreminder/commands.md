@@ -6,13 +6,13 @@ description: Learn more about Bump Reminder related Commands
 
 ### Bump Reminder Setup Command
 #### Add a Bump Channel:
-<command message = "%setup add #channel" slash = "/bump setup channel [channel]" description="Add a Bump Channel, where the Bump Remind Message will be sent." permissions="MANAGE_SERVER"/>
+<command message = "%setup add <#channel>" slash = "/bump setup channel [channel]" description="Add a Bump Channel, where the Bump Remind Message will be sent." permissions="MANAGE_SERVER"/>
 
 #### Create a Bump Channel:
 <command message = "%setup create" slash = "Non Exist" description="Creates a Bump Channel, where the Bump Remind Message will be sent." permissions="MANAGE_SERVER"/>
 
 #### Add a Bump Remind Ping:
-<command message = "%setup ping @role" slash = "/bump setup ping [role]" description="Add a Bump Remind Ping, which will pinged on the Bump Remind Message." permissions="MANAGE_SERVER"/>
+<command message = "%setup ping <@role>" slash = "/bump setup ping [role]" description="Add a Bump Remind Ping, which will pinged on the Bump Remind Message." permissions="MANAGE_SERVER"/>
 
 #### Create a Bump Remind Ping:
 <command message = "%setup ping create" slash = "Non Exist" description="Creates a Bump Remind Ping, which will pinged on the Bump Remind Message." permissions="MANAGE_SERVER"/>
@@ -49,7 +49,7 @@ description: Learn more about Bump Reminder related Commands
 ### Bump Channelstatus & Channellockdown Command
 
 #### Add a Channelstatus Channel:
-<command message = "%channelstatus channel #channel" slash = "/bump channelstatus channel [channel]" description="Adds a Channel, where the Bump Status will be shown" permissions="MANAGE_SERVER"/>
+<command message = "%channelstatus channel <#channel>" slash = "/bump channelstatus channel [channel]" description="Adds a Channel, where the Bump Status will be shown" permissions="MANAGE_SERVER"/>
 
 #### Change the ChannelName, when server is not bumpable:
 <command message = "%channelstatus notbumpable <channelname>" slash = "/bump channelstatus notbumpable [channelname]" description="Sets the ChannelName, when the Server is not bumpable" permissions="MANAGE_SERVER"/>

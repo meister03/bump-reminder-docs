@@ -10,7 +10,7 @@ description: Learn more about Counting related Commands
 <command message = "%countsetup enable/disable" slash = "/count setup enable/disable" description="Enables/Disables the Counting Feature" permissions="MANAGE_SERVER"/>
 
 #### Add a Counting Channel:
-<command message = "%countsetup channel #channel" slash = "/count setup channel [channel]" description="Sets the Counting Channel, where you will count together." permissions="MANAGE_SERVER"/>
+<command message = "%countsetup channel <#channel>" slash = "/count setup channel [channel]" description="Sets the Counting Channel, where you will count together." permissions="MANAGE_SERVER"/>
 
 #### Enable/Disable Reaction, when right/wrong counted:
 <command message = "%countsetup yesreact" slash = "/count setup yesreact" description="Enables Reactions in the Counting Channel, when counted right or wrong." permissions="MANAGE_SERVER"/>
