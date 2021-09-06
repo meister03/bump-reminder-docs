@@ -85,3 +85,4 @@ description: Learn more about Moderation Commands
 <command message = "%dehoist user <@user> <new_nickname>" slash = "/dehoist user [user] [new_nickname]" description="Dehoists the mentioned user and gives them the mentioned new nickname, when nor is given, then the special Character will be removed."  permission= "MANAGE_NICKNAMES, ADMINISTRATOR"/>
 
 <command message = "%dehoist all <new_nickname>" slash = "/dehoist all [new_nickname]" description="Dehoists all dehoistable Members and gives them the mentioned new nickname, when nor is given, then the special Character  will be removed."  permission= "MANAGE_NICKNAMES, ADMINISTRATOR"/>
+
