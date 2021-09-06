@@ -41,6 +41,8 @@ module.exports =  {
 			text: 'Counting',
 			children: [
 				'/counting/',
+				'/counting/setup.md',
+				'/counting/showcase.md',
 				'/counting/commands.md',
 			],
 		},
