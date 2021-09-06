@@ -79,6 +79,16 @@ module.exports =  {
 			],
 		},
 		{
+			text: 'Event Logging',
+			children: [
+				'/eventlogging/',
+				'/eventlogging/setup.md',
+				'/eventlogging/addremoveevents.md',
+				'/eventlogging/showcase.md',
+				'/eventlogging/commands.md',
+			],
+		},
+		{
 			text: 'Suggestion Board',
 			children: [
 				'/suggestion/',
