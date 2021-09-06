@@ -62,6 +62,10 @@ module.exports =  {
 			text: 'Boost Tracker',
 			children: [
 				'/boosttracker/',
+				'/boosttracker/setup.md',
+				'/boosttracker/customize.md',
+				'/boosttracker/features.md',
+				'/boosttracker/showcase.md',
 				'/boosttracker/commands.md',
 			],
 		},
