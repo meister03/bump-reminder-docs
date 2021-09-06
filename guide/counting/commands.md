@@ -26,7 +26,7 @@ description: Learn more about Counting related Commands
 <command message = "%countsetup role <@role> <removeafter>" slash = "/count setup role [role] [removeafter]" description="Gives a timed role, when someone counted wrong and which will be removed after the provied time" permissions="MANAGE_SERVER"/>
 
 ### Set the current Counting to a specific Number:
-<command message = "%setcount <number>" slash = "/count setcount <number>" description="Sets the current Counting to a specific Number from whereon the Counting will be continued" permission="MANAGE_SERVER"/>
+<command message = "%setcount <number>" slash = "/count setcount <number>" description="Sets the current Counting to a specific Number from whereon the Counting will be continued" permissions ="MANAGE_SERVER"/>
 
 ### See the current Counting Stats:
 <command message = "%count" slash = "/count stats" description="Gives you the current Counting Stats with the last counter, the current number, the highes count and more..."/>

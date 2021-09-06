@@ -10,48 +10,35 @@ description: Here you will learn, how to setup the Bump Reminder Feature
 **It's very easy to setup. First you have to know that there are different kinds of remind options.**  
 [**For those, who are to lazy to read, click on the link for a video!**](https://www.youtube.com/watch?v=LuthgfnZ3rg)
 
-#### **Possible remind options:**
+::: tip
+ When you want to ping `@everyone/@here`m create a locked Channel and add the ping as `everyone/here`. The `@everyone/@here` Role does not have to pinged for adding them as Bump Reminder Ping.
+:::
 
-{% tabs %}
-{% tab title="Role Remind" %}
-* **This will ping the set up ping role on bump remind**
-* `%setup ping @role ->` **`will add the role`**
-* `%setup ping create ->` **`will create the role, when you do not have a bump remind role`**
-* `%setup add <#channel>  ->` **`will add a bump channel`**
-{% endtab %}
+### I already have a Bump Channel and Role Ping:
 
-{% tab title="@here/@everyone ping" %}
-* **Just online person or everyone  will be pinged. Thats way, it is recommended to create a locked channel!**
+#### Add a Bump Channel:
+- This adds an existing Channel as Bump Channel, where the Bump Remind Messages will be sent.
+<command message = "%setup add <#channel>" slash = "/bump setup channel [channel]" description="Add a Bump Channel, where the Bump Remind Message will be sent." permissions="MANAGE_SERVER"/>
 
-**You have already a locked Channel:**
+#### Add a Bump Remind Ping:
+- This adds an existing Roles as Bump Ping , which will be pinged on Bump Remind
+<command message = "%setup ping <@role>" slash = "/bump setup ping [role]" description="Add a Bump Remind Ping, which will pinged on the Bump Remind Message." permissions="MANAGE_SERVER"/>
 
-<command message = "%setup ping everyone/here" slash = "/bump setup ping [role:pingrole]"/>
+### I don't have a Bump Channel and a Role Ping:
 
-* `%setup add <#channel> ->` **`will add an existing Bump channel`**
+#### Create a Bump Channel:
+- This will create a locked Bump Channel and add it as Bump Channel, where Remind Messages will be sent.
+- To make it public edit the Channel Settings
+<command message = "%setup create" slash = "Non Exist" description="Creates a Bump Channel, where the Bump Remind Message will be sent." permissions="MANAGE_SERVER"/>
 
-**You do not have a locked Channel:**
+#### Create a Bump Remind Ping:
+- This will create a role named `Remind Me` and add it as Bump Ping
+- On Bump Remind, the Bot will ping the created Role
+<command message = "%setup ping create" slash = "Non Exist" description="Creates a Bump Remind Ping, which will pinged on the Bump Remind Message." permissions="MANAGE_SERVER"/>
 
-* `%setup ping everyone/here`
-* `%setup create ->`**`will create a locked Bump channel`**
-{% endtab %}
-
-{% tab title="@last user ping" %}
-* **This remind option is default, although you can add here a bump channel too.**
-* `%setup add <#channel> ->` **`will add your bump channel`**
-
-**`How do I revert to last user ping?`**
-
-* %delete setup -&gt; **will reset the setup to default**
-{% endtab %}
-{% endtabs %}
-
-{% hint style="warning" %}
- When you have chosen the first or the second option. Assume that you added a bump channel or it won't work :\(
-{% endhint %}
 
 
 **Once you have set up the remind option. It should send a bump response after the !d bump.** 
 
-[**Interesting in customizing the messages?**](customize-remind-messages.md)  
+[**Interesting in customizing the messages?**](/customize.md)  
 Go on the next Page!
-

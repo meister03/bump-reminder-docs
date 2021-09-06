@@ -12,5 +12,9 @@
   "license": "Apache 2.0",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.25"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meister03/bump-reminder-docs.git"
   }
 }

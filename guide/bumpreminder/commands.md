@@ -46,6 +46,14 @@ description: Learn more about Bump Reminder related Commands
 ### Bump Reminder Test Command
 <command message = "%test" slash = "/bump test" description="Simulate a Bump Reminder Message to check your current Setup" cooldown="10" permissions="MANAGE_SERVER"/>
 
+### Custom Avatar & Name on Remind Message
+
+#### Change the Avatar on the Remind Message:
+<command message = "%custom avatar <imagelink>" slash = "/bump message avatar [imagelink]" description="Changes the Avatar of the Bot to the new Image on the Remind Message" permissions="MANAGE_SERVER" premium='true'/>
+
+#### Change the Name on the Remind Message:
+<command message = "%custom name <name>" slash = "/bump message name [name]" description="Changes the Name of the Bot to the new name on the Remind Message" permissions="MANAGE_SERVER" premium='true'/>
+
 ### Bump Channelstatus & Channellockdown Command
 
 #### Add a Channelstatus Channel:
