@@ -32,7 +32,7 @@ description: Learn more about Moderation Commands
 #### Remove Whitelisted Members or Roles:
 <command message = "%wlist removeuser <@user>" slash = "/mod whitelist removeusers [user]" description="Removes a member as a whitelisted Member, which removes there immunity against Mod Actions."  permissions = "ADMINISTRATOR"/>
 
-<command message = "%wlist removerole <@role>" slash = "/mod whitelist removeroles [role]" description="Removes a Role as as whitelisted Roles, which removes there immunity against Mod Actions."  permissions = "ADMINISTRATOR"/>
+<command message = "%wlist removerole <@role>" slash = "/mod whitelist removeroles [role]" description="Removes a Role as as a whitelisted Role, which removes there immunity against Mod Actions."  permissions = "ADMINISTRATOR"/>
 
 ### Moderating Commands
 

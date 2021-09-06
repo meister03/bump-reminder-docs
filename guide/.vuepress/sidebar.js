@@ -75,6 +75,9 @@ module.exports =  {
 			text: 'Moderation',
 			children: [
 				'/moderation/',
+				'/moderation/setup.md',
+				'/moderation/moderators.md',
+				'/moderation/whitelist.md',
 				'/moderation/commands.md',
 			],
 		},
