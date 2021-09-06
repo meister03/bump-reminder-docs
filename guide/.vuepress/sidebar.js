@@ -34,6 +34,9 @@ module.exports =  {
 			text: 'Question of the Day',
 			children: [
 				'/qotd/',
+				'/qotd/setup.md',
+				'/qotd/customquestion.md',
+				'/qotd/showcase.md',
 				'/qotd/commands.md',
 			],
 		},

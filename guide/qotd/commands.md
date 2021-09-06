@@ -5,10 +5,10 @@ description: Learn more about Question of the Day Commands
 # QOTD Commands
 
 ## Setup QOTD Commands:
-### Add QOTD Channel:
+### Add a QOTD Channel:
 <command message = "%qsetup channel <#channel>" slash="/qotd setup channel [channel]" description="Adds the mentioned Channels as QOTD Channel, where daily QOTD's will be sent." permissions ="MANAGE_SERVER"/>
 
-### Add QOTD Ping:
+### Add a QOTD Ping:
 <command message = "%qsetup ping <@role>" slash="/qotd setup ping [role]" description="Adds the mentioned Roles as QOTD Ping, which will be pinged on the daily QOTD's" permissions ="MANAGE_SERVER" premium="true"/>
 
 ### Schedule QOTD on a specific Time:
