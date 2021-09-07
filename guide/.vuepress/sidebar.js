@@ -27,6 +27,10 @@ module.exports =  {
 			text: 'Vote Tracker',
 			children: [
 				'/votetracker/',
+				'/votetracker/setup.md',
+				'/votetracker/rewards.md',
+				'/votetracker/features.md',
+				'/votetracker/showcase.md',
 				'/votetracker/commands.md',
 			],
 		},
@@ -60,6 +64,9 @@ module.exports =  {
 			text: 'Welcomer',
 			children: [
 				'/welcomer/',
+				'/welcomer/setup.md',
+				'/welcomer/customize.md',
+				'/welcomer/showcase.md',
 				'/welcomer/commands.md',
 			],
 		},
@@ -102,11 +109,30 @@ module.exports =  {
 			],
 		},
 		{
-			text: 'Misc Command',
+			text: 'Other Commands',
 			children: [
-				'/misc/',
+				'/othercommands/',
+				'/othercommands/bot.md',
+				'/othercommands/fun.md',
+				'/othercommands/image.md',
+				'/othercommands/info.md',
+				'/othercommands/misc.md',
+				'/othercommands/mobile.md',
 			],
 		},
-	
+		{
+			text: 'Premium & CustomBot',
+			children: [
+				'/premium/',
+				'/premium/custombot.md',
+			],
+		},
+		{
+			text: 'Privacy Policy & ToS',
+			children: [
+				'/privacytos/privacypolicy.md',
+				'/privacytos/tos.md',
+			],
+		},
 	],
 };
