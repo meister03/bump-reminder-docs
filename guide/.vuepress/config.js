@@ -5,13 +5,15 @@ module.exports = {
     title: 'Bump Reminder Documentation',
     description: 'The Documentation Page for Bump Reminder',
     docsDir: 'guide',
-
+    plugins: ['@vuepress/plugin-search', {
+        search: true,
+        searchMaxSuggestions: 10
+    }],
     themeConfig: {
         logo: 'https://cdn.discordapp.com/avatars/735147814878969968/c8ef41562f2306cde5bcb4e0a5778de8.png',
         sidebar: sidebar,
         //Search:
         search: true,
-        searchMaxSuggestions: 10,
 
         contributors: false,
     }
