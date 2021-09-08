@@ -5,13 +5,13 @@ description: 'Add daily, weekly, onetime and action reminders on special words/t
 
 # General Reminders
 
-**Jump to:** [**Create Reminders \(Interval, Onetime, Action\)**](create-reminders.md)
+**Jump to:** [**Remind Util (AppendRemind, Timezone, Blacklist)*](util.md)
 
-**Jump to:** [**Get All Reminders/ Delete/ Edit Reminders**](all-edit-delete-reminders.md)
+**Jump to:** [**Interval Reminders**](interval.md)
 
-**Jump to:** [**Setup Reminder function**](setup-reminder.md)
+**Jump to:** [**Onetime Reminders**](onetime.md)
 
-**Jump to:** [**Blacklist Users \(They can no more create Reminders\)**](blacklist-users.md)
+**Jump to:** [**Action Reminders**](action.md)
 
-**Jump to:** [**All Reminder Commands**](../commands/reminder.md)
+**Jump to:** [**All Reminder Commands**](commands.md)
 

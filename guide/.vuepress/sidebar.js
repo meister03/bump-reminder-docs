@@ -21,6 +21,11 @@ module.exports =  {
 			text: 'Reminders',
 			children: [
 				'/reminder/',
+				'/reminder/util.md',
+				'/reminder/interval.md',
+				'/reminder/onetime.md',
+				'/reminder/action.md',
+				'/reminder/commands.md',
 			],
 		},
 		{
