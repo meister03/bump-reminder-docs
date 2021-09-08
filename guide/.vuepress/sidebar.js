@@ -8,6 +8,7 @@ module.exports =  {
 		},
 		{
 			text: 'Bump Reminder',
+			collapsable: true,
 			children: [
 				'/bumpreminder/',
 				'/bumpreminder/setup.md',

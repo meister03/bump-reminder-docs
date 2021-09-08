@@ -1,33 +1,39 @@
 <template>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
   <div class="commandpallete">
-    <button @click="onViewInfo()"
+    <button
+      @click="onViewInfo()"
       title="Get more Information"
       id="getmoreinfo"
       class="commandoptions blue"
       type="button"
     >
-    <i class="fa fa-info"></i>
+      <i class="fa fa-info"></i>
     </button>
     <button
-      @click="currentCommand.type === 'SLASH' ? (currentCommand.type = 'MESSAGE') : (currentCommand.type = 'SLASH') "
+      @click="
+        currentCommand.type === 'MESSAGE'
+          ? (currentCommand.type = 'SLASH')
+          : (currentCommand.type = 'MESSAGE')
+      "
       title="See Slash/Message Command Usage"
       id="changecommandtype"
       class="commandoptions orange"
       type="button"
     >
-      <svg class="icon-2VCx8O" width="21" height="21">
-        <path
-          fill="currentColor"
-          fill-rule="evenodd"
-          clip-rule="evenodd"
-          d="M5 3C3.89543 3 3 3.89543 3 5V19C3 20.1046 3.89543 21 5 21H19C20.1046 21 21 20.1046 21 19V5C21 3.89543 20.1046 3 19 3H5ZM16.8995 8.41419L15.4853 6.99998L7 15.4853L8.41421 16.8995L16.8995 8.41419Z"
-        ></path>
-      </svg>
+      <i class="fa fa-comments"></i>
     </button>
     <h1 class="commandname">{{ onChangeCommandType() }}</h1>
-    <div class="commandname info" v-if="currentCommand.viewall" v-html="createCommandInfo()">
-    </div>
+    <div
+      class="commandname info"
+      v-if="currentCommand.viewall"
+      v-html="createCommandInfo()"
+    ></div>
   </div>
 </template>
 
@@ -41,7 +47,7 @@ export default {
     description: String,
     cooldown: String,
     permissions: Array,
-    currentCommandType: { Type: String, default: "MESSAGE" },
+    currentCommandType: { Type: String, default: "SLASH" },
     currentCommandUsage: String,
   },
   methods: {},
@@ -55,7 +61,7 @@ export default {
     };
   },
   methods: {
-     onChangeCommandType(event) {
+    onChangeCommandType(event) {
       if (this.currentCommand.type === "MESSAGE") {
         return this.message;
       } else {
@@ -63,28 +69,33 @@ export default {
         return this.slash;
       }
     },
-    onViewInfo(){
-      if(this.currentCommand.viewall){
+    onViewInfo() {
+      if (this.currentCommand.viewall) {
         this.currentCommand.viewall = false;
         return false;
-      }else{
+      } else {
         this.currentCommand.viewall = true;
         return true;
       }
-
     },
-    createCommandInfo(){
+    createCommandInfo() {
       const info = [];
-      if(this.description) info.push(`<b>Description:</b> ${this.description || 'No Description Exists!'}`);
-      info.push(`<b>Permissions:</b> ${this.permissions?.split(', ') || 'No Permissions required.'}`);
-      if(this.cooldown) info.push(`<b>Cooldown:</b> ${this.cooldown || '3 Seconds'}`)
-      
-      return '<p class=commandinfo>' + info.join('<br>') + '</p>';
-    }
+      if (this.description)
+        info.push(
+          `<b>Description:</b> ${this.description || "No Description Exists!"}`
+        );
+      info.push(
+        `<b>Permissions:</b> ${
+          this.permissions?.split(", ") || "No Permissions required."
+        }`
+      );
+      if (this.cooldown)
+        info.push(`<b>Cooldown:</b> ${this.cooldown || "3 Seconds"}`);
+
+      return "<p class=commandinfo>" + info.join("<br>") + "</p>";
+    },
   },
-  computed: {
-   
-  },
+  computed: {},
 };
 </script>
 
@@ -133,25 +144,19 @@ export default {
   padding: 0.25em 0.4em 0.2em;
 }
 
-.commandname.info{
+.commandname.info {
   margin-top: 0.2em;
 }
-
 
 .commandoptions.orange {
   background-color: #f1aa3c;
   border-color: #f1aa3c;
-  margin: 0px;
-  margin-right: 0.2em;
-  padding: 0px;
-  padding-right: 0.2em;
-  border-width: 1px;
+
+  padding-left: 0.1em;
 }
 .commandoptions.blue {
   background-color: #007bff;
   border-color: #007bff;
-  margin: 0px;
-  margin-right: 0.2em;
+ 
 }
-
 </style>

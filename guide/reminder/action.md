@@ -10,7 +10,9 @@ As an example: `You created a Action Reminder with a 'RemindAfter' Time of 1d an
 ::: warning
 **Reminders with the same name will be overwritten.**
 :::
-
+::: warning
+**The Reminder Name can't contain Spaces**
+:::
 
 ### Create a Action Reminder:
 * Creates a Action Reminder with the given Name and Data

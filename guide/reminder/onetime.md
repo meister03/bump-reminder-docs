@@ -18,6 +18,7 @@ When you want to create a personal Reminder use the comamnd `%remindme`
 #### Create a Reminder:
 - This creates a Reminder on the given Time and guides you through a setup, where you can customize the Reminder on certain aspects
 <command message = "%remind <timecontent>" slash="/remind create [remindername] [ping] [channel] [remindmessage] [usetimezone]" description="Creates a Normal Reminder with the given Data and guides you through a Setup" permissions ="MANAGE_SERVER"/>
+
 - Example: `%remindme in 10 minute for drinking water`
 
 #### Delete a Reminder:
