@@ -34,4 +34,4 @@ description: Learn more about Ticket related Commands
 <command message = "%panel all" slash="/ticket panel all" description="Gives you a list of all Ticket Panels" permissions ="ADMINISTRATOR"/>
 
 ### Close/Archive a Ticket:
-<command message = "%close" slash="/ticket panel close" description="Gives you the Manage Ticket Message for transcripting, archiving & delete the Channel" permissions ="TICKET_ROLE_ACCESS"/>
+<command message = "%close" slash="/ticket close" description="Gives you the Manage Ticket Message for transcripting, archiving & delete the Channel" permissions ="TICKET_ROLE_ACCESS"/>

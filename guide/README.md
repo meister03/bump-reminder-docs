@@ -15,6 +15,7 @@ description: The Best Unique Multi Purpose Reminder
 * [🌙**Customizable AFK-System**](afk/)
 * [**🤗Customizable Welcomer**](welcomer/)
 * [💎**Server Boost Tracking & Managing** ](boosttracker/)
+* [🎫**Ticket System** ](ticket/)
 * [👮‍♂️**Moderation**](moderation/)
 * [📑**Event Logging**](eventlogging/)
 * [💡**Suggestion board**](suggestion/)

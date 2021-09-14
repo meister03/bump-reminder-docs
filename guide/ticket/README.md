@@ -3,7 +3,7 @@ tilte: Start
 description: Learn how to setup the Ticket System
 ---
 
-# Welcomer
+# Ticket System
 
 ### Jump to: [Setup Ticket System](setup.md)
 
