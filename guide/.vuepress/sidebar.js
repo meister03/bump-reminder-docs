@@ -87,6 +87,16 @@ module.exports =  {
 				'/boosttracker/commands.md',
 			],
 		},
+			{
+			text: 'Ticket System',
+			children: [
+				'/ticket/',
+				'/ticket/setup.md',
+				'/ticket/panel.md',
+				'/ticket/showcase.md',
+				'/ticket/commands.md',
+			],
+		},
 		{
 			text: 'Moderation',
 			children: [
