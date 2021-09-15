@@ -2,3 +2,4 @@ package-lock.json
 node_modules
 guide/.vuepress/.cache
 guide/.vuepress/.temp
+guide/.vuepress/dist
