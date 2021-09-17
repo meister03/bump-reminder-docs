@@ -7,7 +7,7 @@ description: Do further Customization with using the Premium Features
 ## Feature: ChannelStatus
 - [**This feature allows you to create a locked voice channel/normal channel, which shows the time left for the next bump.** ](https://media.discordapp.net/attachments/738409360488661142/809322554573586452/unknown.png)
 
-::: tip
+::: tip Required Permissions:
 **The Bot must have the `Manage_Channel` , `View_Channel`, `Send_Messages` in the Channel, which you added.**
 :::
 

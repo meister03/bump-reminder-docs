@@ -28,8 +28,10 @@ description: Create/Edit/Delete all Panels
 ### Customization
 
 #### Variables, which can be used:
-- TicketChannelName -> `{{usertag}}`, `{{ticketnumber}}`
-- `{{usertag}}`, `{{ticketnumber}}`, `{{channelmention}}`, `{{usermention}}`
+```
+TicketChannelName: {{usertag}}, {{ticketnumber}}
+{{usertag}}`, {{ticketnumber}}, {{channelmention}}, {{usermention}}
+```
 
 #### Panel Channel
 - The Channel, where the Panel Message will be sent.
@@ -37,7 +39,9 @@ description: Create/Edit/Delete all Panels
 
 #### Panel Response Message
 - The panel response message is the message, which is sent when the user opens a Ticket
-- E.g. "Hello, we opened a Ticket in {{channelmention}}"
+```
+E.g. "Hello, we opened a Ticket in {{channelmention}}"
+```
 - Its the blue interaction message (ephemeral) in the panel channel.
 - Pls send the message in the Channel
 

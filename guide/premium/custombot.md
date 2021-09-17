@@ -2,10 +2,9 @@
 tilte: CustomBot ToS & Guide
 description: When supporting our Partner, you can create your own CustomBot!
 ---
-
 # Custom Bot ToS & Create Custom Bot
 
-::: warning
+::: warning Terms of Service
 **Custombot ToS:**
 
 **The terms "us", "our" and "we" represent Bump Reminder, during "there", "they" represents the Service offered by the mentioned Dev below.**
@@ -51,9 +50,7 @@ Hereby both Partner agrees with the upper Agreement. Last updated: 01.09.2021
 
 **The command `%custombot` gives you the power to start your Custom Bot, delete them and even change their Status.**
 
-::: danger
-**Important Note:**
-
+::: danger Important Note:
 * **Never send the Bot token in a public Channel**
 * **Never share the Bot Token to anyone**
 :::

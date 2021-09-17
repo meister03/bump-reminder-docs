@@ -5,7 +5,9 @@ description: Learn to customize your Welcomer Card and your Welcomer Message
 # Customize Welcomer
 ### Variables:
 - **You can use the following Variables in your Message:**
-`{{membercount}},{{username}},{{usertag}},{{usermention}},{{userid}}`
+```
+{{membercount}},{{username}},{{usertag}},{{usermention}},{{userid}}
+```
 ### Customize Welcomer Card
 
 #### Change the Welcomer Card Size to `full/half/disable`:

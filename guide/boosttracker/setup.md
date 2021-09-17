@@ -3,7 +3,7 @@ title: Setup
 description: Learn to setup the Boost Tracker and more...
 ---
 # Setup Boost Tracking
-::: warning
+::: Premium Tier 2
 [**Premium Tier 2 is required for using this Feature.**](../premium/#tier-2-perks)
 :::
 

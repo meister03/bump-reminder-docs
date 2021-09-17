@@ -17,7 +17,7 @@ description: Give you active Voters some cool roles!
 
 ![](/assets/image%20%2825%29.png)
 
-::: warning
+::: warning 
 **Assume that the Bot has a higher Role than the reward Role**
 :::
 

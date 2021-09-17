@@ -4,7 +4,7 @@ description: 'Learn how to blacklist users, append your remind count and change 
 ---
 # Remind Util
 ### Add /Remove blacklisted Users:
-::: warning
+::: warning Info
 Blacklisted users can no more create any type of Reminders
 :::
 * **This will blacklist or unblacklist mentioned Users.**

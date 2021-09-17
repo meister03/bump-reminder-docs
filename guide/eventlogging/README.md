@@ -10,7 +10,7 @@ description: Learn how to activate the powerful Logging-System
 
 ### Jump to: [Showcase Event Logger](showcase.md)
 
-::: warning
+::: warning Requirement
 **Assume that you activated the **[ **Moderation-System**](../moderation/)**!**
 :::
 

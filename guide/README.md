@@ -1,6 +1,7 @@
 ---
 title: Home
 description: The Best Unique Multi Purpose Reminder
+navbar: true
 ---
 
 # Bump Reminder Documentation:

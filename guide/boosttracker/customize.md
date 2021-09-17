@@ -8,15 +8,17 @@ description: See the commands for customizing the Boost Message after your need.
 
 #### Variables:
 - This variables can be used in the Message, which will be replaced with the appropriated values.
-- `{{boostcount}}, {{boosttier}}, {{username}}, {{usertag}}, {{userid}}, {usermention}}`
-- `Ex: {{usertag}}  boosted! Server has {{boostcount}} with {{boosttier}} tier`
+```
+{{boostcount}}, {{boosttier}}, {{username}}, {{usertag}}, {{userid}}, {usermention}}
+Ex: {{usertag}}  boosted! Server has {{boostcount}} with {{boosttier}} tier
+```
 
-::: tip
+::: tip Info
 **Use the Parameter `disable`, when you want to disable certain customization such as Embed Image/ Embed Thumbnail...**
 :::
 
 #### Change the Plain Message:
-- When using an embed, it would be nice, when you can send a normal non-embed message, which can also ping the member, when you use the variable {{usermention}}. This functionality fulfills the Plain message.
+- When using an embed, it would be nice, when you can send a normal non-embed message, which can also ping the member, when you use the variable "usermention". This functionality fulfills the Plain message.
 
 <command message = "%bmessage plain <message>" slash = "/boost message plain [message]" description="Sets the Plain Message, which is sent on Boost. A Plain Message is a Non-Embed Message, which will be sent with the Embed" permissions="MANAGE_SERVER"/>
 

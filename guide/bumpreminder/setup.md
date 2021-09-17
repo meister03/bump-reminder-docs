@@ -10,7 +10,7 @@ description: Here you will learn, how to setup the Bump Reminder Feature
 **It's very easy to setup. First you have to know that there are different kinds of remind options.**  
 [**For those, who are to lazy to read, click on the link for a video!**](https://www.youtube.com/watch?v=LuthgfnZ3rg)
 
-::: tip
+::: tip Info
  When you want to ping `@everyone/@here`m create a locked Channel and add the ping as `everyone/here`. The `@everyone/@here` Role does not have to pinged for adding them as Bump Reminder Ping.
 :::
 

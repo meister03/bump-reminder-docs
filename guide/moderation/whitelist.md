@@ -4,7 +4,7 @@ description: 'Here you will learn, how to add whitelisted Members or Roles'
 ---
 # Add or Remove Whitelist
 
-::: tip
+::: tip Info
 - **Added Moderators are already whitelisted!**
 
 - **You can provide mentions or role/user ids & you can add many with mentioning the roles/users in a row.**

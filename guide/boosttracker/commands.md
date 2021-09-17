@@ -20,7 +20,9 @@ description: Learn more about Boost Tracker related Commands
 
 ### Customize the Boost Message:
 #### Variables:
-<code>{{boostcount}}, {{boosttier}}, {{username}}, {{usertag}}, {{usermention}}, {{userid}}</code>
+```
+{{boostcount}}, {{boosttier}}, {{username}}, {{usertag}}, {{usermention}}, {{userid}}
+```
 
 #### Change the Plain Message:
 <command message = "%bmessage plain <message>" slash = "/boost message plain [message]" description="Sets the Plain Message, which is sent on Boost. A Plain Message is a Non-Embed Message, which will be sent with the Embed" permissions="MANAGE_SERVER"/>

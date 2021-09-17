@@ -12,8 +12,10 @@ description: Learn to customize the Bump Remind Message
 - You can disable it with the `disable` parameter.
 
 **[Premium](../premium) Variables:**
-- `{{username}} , {{usertag}}, {{userid}}, {{serverbumpcount}}, {{usermention}}`
-- `Ex: Thx for bumping {{username}}, We have {{serverbumpcount}} bumps!`
+```
+{{username}} , {{usertag}}, {{userid}}, {{serverbumpcount}}, {{usermention}}
+Ex: Thx for bumping {{username}}, We have {{serverbumpcount}} bumps!
+```
 
 <command message = "%custom response <message/disable>" slash = "/bump message response [message]" description="Sets the Message,which is sent on Bump" permissions="MANAGE_SERVER"/>
 

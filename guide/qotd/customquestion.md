@@ -4,7 +4,7 @@ description: Add your own questions to keep your community in track
 ---
 # Custom Questions
 
-::: warning
+::: warning Info
 **Custom Questions have a higher priority than prelisted questions. When all Custom Questions have been sent, normal questions will be sent again.**
 :::
 

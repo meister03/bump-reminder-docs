@@ -4,7 +4,7 @@ description: 'Here you will learn, how to add moderators to perform actions'
 ---
 # Add or Remove Modertors
 
-::: tip
+::: tip Info
 - **You can provide mentions or role/user ids & you can add many with mentioning the roles/users in a row.**
 -  **Check with current List of mods with `%modsetup` or `/mod setup help`** 
 :::
