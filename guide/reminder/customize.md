@@ -3,6 +3,8 @@ title: Customize Message
 description: 'Learn how to create Reminder Message Overwrites, which accounts on Ontime, Interval & Action Reminders'
 ---
 # Customize Reminder Message
+Reminder Message overwrites are Overwrites, which will account on Onetime, Interval & Action Reminders and will change there Appereance.
+
 ### Variables:
 - **You can use the following Variables in your Message:**
 ```
