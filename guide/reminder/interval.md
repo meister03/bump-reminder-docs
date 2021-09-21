@@ -1,5 +1,5 @@
 ---
-title: Action Reminders
+title: Interval Reminders
 description: 'Learn how to created/edit/delete Interval Reminders'
 ---
 ### Interval Command
