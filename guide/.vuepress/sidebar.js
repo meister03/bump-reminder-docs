@@ -26,6 +26,7 @@ module.exports =  {
 				'/reminder/interval.md',
 				'/reminder/onetime.md',
 				'/reminder/action.md',
+				'/reminder/customize.md',
 				'/reminder/commands.md',
 			],
 		},
