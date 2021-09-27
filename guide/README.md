@@ -23,5 +23,7 @@ navbar: true
 * [😆**Fun Commands \(Meme....\)**](othercommands/fun.md)
 * [🧾**Utility \(Misc, Info Commands\)**](othercommands/)
 
-**Invite the bot** [**here**](https://discord.com/api/oauth2/authorize?client_id=735147814878969968&permissions=523344&scope=bot)**. Feel free to join our** [**Support Server**](https://discord.gg/zhxZHFN) **for help as well. Scroll down, when you want to setup Bump reminder.**
+<btn href="https://discord.com/api/oauth2/authorize?client_id=735147814878969968&permissions=805825744&scope=applications.commands%20bot">Invite Bot</btn><btn href="https://discord.gg/zhxZHFN">Join Support Server</btn>
+
+**Go on the next Page for getting started with the Bot!**
 

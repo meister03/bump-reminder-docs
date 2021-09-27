@@ -35,7 +35,7 @@ Example:
 
 #### Change the Reminder Message to a Embed/Non-Embed Message:
 - Disables/Enables the Embed, which changes how the content will be sent.
-<command message = "%rmessage emebed enable/disable" slash = "/bump message embed [status]" description="Disables or Enables Embed Mode on the Bump Remind Message" permissions="MANAGE_SERVER"/>
+<command message = "%rmessage emebed enable/disable" slash = "/reminder message embed [status]" description="Disables or Enables Embed Mode on the Remind Message" permissions="MANAGE_SERVER"/>
 
 #### Change the Footer of the Reminder Message:
 <command message = "%rmessage footer <message>" slash = "/reminder message footer [message]" description="Sets the Footer of the Embed, which is sent on the Reminder Message" permissions="MANAGE_SERVER" premium='true'/>
