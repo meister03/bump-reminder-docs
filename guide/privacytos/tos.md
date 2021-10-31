@@ -36,4 +36,5 @@ description: Check the Terms of Service of the Bot "Bump Reminder"
 * Meister\#9667
 * HabvielRGBimPC\#2087
 * LilSadPanda\#9989
+* Email: bumpreminder@gmail.com
 * **Or join the Discord** [**Support Server**](https://discord.gg/dXJPy8m)

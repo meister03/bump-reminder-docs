@@ -10,12 +10,12 @@ module.exports = {
         ['meta', { property: 'og:title', content: 'Bump Reminder Guide' }],
         ['meta', { property: 'og:description', content: 'Bump Reminder, The Best Unique Multipurpose Reminder Bot' }],
         ['meta', { property: 'og:type', content: 'website' }],
-        ['meta', { property: 'og:url', content: 'https://bumpreminder.tk/' }],
+        ['meta', { property: 'og:url', content: 'https://bumpreminder.com/' }],
         ['meta', { property: 'og:locale', content: 'en_US' }],
     ],
     docsDir: 'guide',
     themeConfig: {
-        logo: 'https://cdn.discordapp.com/avatars/735147814878969968/c8ef41562f2306cde5bcb4e0a5778de8.png',
+        logo: 'https://imgur.com/xzGG9XN',
         sidebar: sidebar,
         //Search:
         search: true,

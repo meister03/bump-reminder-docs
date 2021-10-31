@@ -80,6 +80,7 @@ export default {
     },
     createCommandInfo() {
       const info = [];
+
       if (this.description)
         info.push(
           `<b>Description:</b> ${this.description || "No Description Exists!"}`

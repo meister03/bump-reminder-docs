@@ -97,3 +97,8 @@ E.g. "Hello, we opened a Ticket in {{channelmention}}"
 
 #### Ticket Embed Thumbnail
 - The Thumbnail, which is viewed on the Embed Message
+
+### Send a Master Panel:
+A Master Panel is a Ticket Panel, where all Ticket Panels are merged to one and can be opened by selecting the correct ticket option based on your issue.
+In a Master Panel the Ticket Settings of each Panel are respected, which allows different customization.
+<command message = "%panel master <#channel>" slash="/ticket panel master [channel]" description="Creates a Master Panel, which contains all existing Ticket Panels." permissions ="ADMINISTRATOR"/>
