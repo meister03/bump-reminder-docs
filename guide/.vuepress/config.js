@@ -15,7 +15,7 @@ module.exports = {
     ],
     docsDir: 'guide',
     themeConfig: {
-        logo: 'https://imgur.com/xzGG9XN',
+        logo: './assets/favicon.ico',
         sidebar: sidebar,
         //Search:
         search: true,
