@@ -13,3 +13,6 @@ description: Convince yourself from your cool vote-tracker
 
 ![Personal Vote Reminder with %voteremind](/assets/image%20%2838%29.png)
 
+![Highly Customizable Vote Card](https://cdn.discordapp.com/attachments/787637220051779594/920768769771597864/leaderboard.png)
+
+

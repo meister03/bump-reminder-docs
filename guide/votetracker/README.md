@@ -9,6 +9,8 @@ description: Learn to setup our cool Vote tracking System!
 
 **Jump to:** [**Setup Vote Rewards**](rewards.md)
 
+**Jump to:** [**Customize Vote Catd**](card.md)
+
 **Jump to:** [**Additional Features**](features.md)
 
 **Jump to:** [**Showcase Vote Tracker**](showcase.md)

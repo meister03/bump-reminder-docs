@@ -28,7 +28,20 @@ description: Learn more about Vote Tracker Commands
 <command message = "%votereward stack enable/disable" slash = "/vote rewards stack [status]" description = "Enables/Disables Stack Rewards. When Stack Rewards are enabled. Previous Role Rewards will be removed, when new one has been given." permissions = "MANAGE_SERVER"/>
 
 ### Check the current Vote Leaderboard and your current vote count:
-<command message = "%votelb" slash = "/vote stats" description = "Shows the current Vote Leaderboard with your current Vote Count"/>
+<command message = "%votelb" slash = "/vote stats lb" description = "Shows the current Vote Leaderboard with your current Vote Count"/>
 
 ### Subscribe/Unsubscribe to Vote Reminders:
 <command message = "%voteremind" slash = "/vote remind" description = "Subscribes/Unsubscribe for receiving Vote Reminders, when voting on Top.gg"/>
+
+### Vote Card
+#### View Vote Card:
+<command message = "%votelb card" slash = "/vote stats card" description = "Shows the current Vote Leaderboard with the 12 Top Members on a shiny Vote Card" premium="true"/>
+
+#### Change Background of Vote Card:
+<command message = "%votecard background <http-link>" slash = "/vote card background [http-link]" description = "Changes the Background of the Vote Card" permissions = "MANAGE_SERVER"/>
+
+#### Change Background Opacity Overlay of Vote Card:
+<command message = "%votecard opacity <0.1-1>" slash = "/vote card opacity [0.1-1]" description = "A grey overlay with a specific opacity on the background image in order to see the vote card on 'flashing' backgrounds " permissions = "MANAGE_SERVER"/>
+
+#### Add Channel with Auto Updateable Vote Card:
+<command message = "%votecard stats <#channel>" slash = "/vote card stats [channel]" description = "Sends a Message in the mentioned Channel, which contains a Vote Card, which updates on every vote" permissions = "MANAGE_SERVER"/>

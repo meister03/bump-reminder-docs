@@ -36,6 +36,7 @@ module.exports =  {
 				'/votetracker/',
 				'/votetracker/setup.md',
 				'/votetracker/rewards.md',
+				'/votetracker/card.md',
 				'/votetracker/features.md',
 				'/votetracker/showcase.md',
 				'/votetracker/commands.md',

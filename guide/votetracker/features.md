@@ -17,3 +17,4 @@ description: Checkout the additional Features
 ### Subscribe/Unsubscribe to Vote Reminders:
 - Subscribes/Unsubscribe for recieving Vote Reminders, when voting on Top.gg
 <command message = "%voteremind" slash = "/vote remind" description = "Subscribes/Unsubscribe for recieving Vote Reminders, when voting on Top.gg"/>
+
