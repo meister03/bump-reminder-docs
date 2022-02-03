@@ -11,7 +11,7 @@ description: See some info about how to unlock premium and which features you ha
 * [**1 Vote = 1 Credits \(%vote\)**](https://discord.gg/zhxZHFN) ****
 * **Premium Tier 1 = 19 Credits for 2 Months**
 * **Premium Tier 2 = 19 Credits for 1 Month**
-* **Support our Partner `CustomBot Studion` on [Patreon](https://patreon.com/custombotstudio) => Premium Tier 1/2 + Your own Discord Bot (Custom Bot)**
+* **Support our Partner `CBVersen` on [Patreon](https://patreon.com/cbverse) => Premium Tier 1/2 + Your own Discord Bot (Custom Bot)**
 * [**By further questions, join the Support Server or Dm Meister\#9667**](https://discord.gg/dXJPy8m)
 
 ### 💿Tier 1 Perks:
@@ -24,7 +24,7 @@ description: See some info about how to unlock premium and which features you ha
 * **🔄\| Automatic Refire of broken Interval Reminders**
 * **🔢\| Counting Plugin: Timed Role when wrong counted**
 * **🌙\| AFK System add more ignored Channels**
-* **🤖\|** [**Your own Custom Discord Bot**](https://media.discordapp.net/attachments/818814605865254950/838780057816006656/unknown.png), when supporting our [Partner on Patreon](https://patreon.com/custombotstudio)
+* **🤖\|** [**Your own Custom Discord Bot**](https://media.discordapp.net/attachments/818814605865254950/838780057816006656/unknown.png), when supporting our [Partner on Patreon](https://patreon.com/cbverse)
 * **🏎️\|Fast Support and Extra Chat!** 
 
 ###  📀Tier 2 Perks:
@@ -35,7 +35,7 @@ description: See some info about how to unlock premium and which features you ha
 * **😏\| Custom Role in Support Server!** 
 * **🧪\| Access to pre-released Features!** 
 * 💎\| [**Boost Tracking + Managing of Custom Roles**](../boost-tracking-and-managing/)
-* **🤖\|** [**Your own Custom Discord Bot**](https://media.discordapp.net/attachments/818814605865254950/838780057816006656/unknown.png), when supporting our [Partner on Patreon](https://patreon.com/custombotstudio)
+* **🤖\|** [**Your own Custom Discord Bot**](https://media.discordapp.net/attachments/818814605865254950/838780057816006656/unknown.png), when supporting our [Partner on Patreon](https://patreon.com/cbverse)
 * **💯\| 99% Uptime, Nearly no Downtime!!!**
 
 ### Enable the Feature:

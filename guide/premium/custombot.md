@@ -9,17 +9,17 @@ description: When supporting our Partner, you can create your own CustomBot!
 
 **The terms "us", "our" and "we" represent Bump Reminder, during "there", "they" represents the Service offered by the mentioned Dev below.**
 
-**The Developer Lilsadpanda offers a service named Custom Bots, which is a service not operated by Bump Reminder and is not affiliated to Bump Reminder.** 
+**The Community Manager Daniel offers a service named Custom Bots, which is a service not operated by Bump Reminder and is not affiliated to Bump Reminder.** 
 
 * **Bump Reminder isn't responsible for the damage caused by there Service.**
 * **By using there Service, you agree transferring your Bump Reminder Data to there Service**
 * **You can not demand any kind of Refund towards Bump Reminder, since we do not operate there Service.**
 
-**By using there Service, you agree to this following ToS and** [**there Privacy Policy & ToS on this Page**](https://github.com/LilSadPanda/custombotstudio) there tos
+**By using there Service, you agree to this following ToS and** [**there Privacy Policy & ToS on this Page**](https://github.com/Daniel43211/CbVerse) there tos
 
 ### Patnership Agreement
 
-#### This Patnership Agreement should regulate the Cooperation between Bump Reminder and the Service named Custom Bot Studio
+#### This Patnership Agreement should regulate the Cooperation between Bump Reminder and the Service named CBVerse
 
 * The Partnership does not consist of any mutual interests. 
 * The Partnership can be discontinued at any time.
@@ -27,25 +27,25 @@ description: When supporting our Partner, you can create your own CustomBot!
 
 #### Bump Reminder Claims:
 
-* Bump Reminder makes no claims on the CustomBot Studio's Service and does not want to be involved in CustomBot Studio's Service.
-* The Data provided by Bump Reminder can be used as long as its needed for operating the CustomBot Studio Service and under the consent of the users.
-* Bump Reminder doesn't need to be informed, when CustomBot Studio's discontinue there Service.
-* CustomBot Studio obliged to use our [Privacy Policy](https://bumpreminder.gitbook.io/privacy-policy) for protecting your user.
-* Bump Reminder is offering Custom Bot Studio as a gift of the Partnership 100 Premium Codes that can be used for any purpose without anything in return.
+* Bump Reminder makes no claims on the CBVerse's Service and does not want to be involved in CBVerse's Service.
+* The Data provided by Bump Reminder can be used as long as its needed for operating the CBVerse Service and under the consent of the users.
+* Bump Reminder doesn't need to be informed, when CBVerse's discontinue there Service.
+* CBVerse obliged to use our [Privacy Policy](https://bumpreminder.gitbook.io/privacy-policy) for protecting your user.
+* Bump Reminder is offering CBVerse as a gift of the Partnership 100 Premium Codes that can be used for any purpose without anything in return.
 
-#### CustomBot Studio Agrees:
+#### CBVerse Agrees:
 
-* Hereby CustomBot Studio gurantee to not make any claims over Bump Reminder and not involve Bump Reminder in CustomBot Studio service. 
-* CustomBot Studio hereby agrees to use the data provided by Bump Reminder with the consent of the user as long as it is needed to operate the CustomBot service.
-* The Service CustomBot Studio provides can be discontinued at any time without CustomBot Studio informing Bump Reminder.
-* Hereby CustomBot Studio agrees to account the same [Privacy Policy](https://bumpreminder.gitbook.io/privacy-policy), which Bump Reminder has.
+* Hereby CBVerse gurantee to not make any claims over Bump Reminder and not involve Bump Reminder in CBVerse service. 
+* CBVerse hereby agrees to use the data provided by Bump Reminder with the consent of the user as long as it is needed to operate the CustomBot service.
+* The Service CBVerse provides can be discontinued at any time without CBVerse informing Bump Reminder.
+* Hereby CBVerse agrees to account the same [Privacy Policy](https://bumpreminder.gitbook.io/privacy-policy), which Bump Reminder has.
 
 [Patner 1: Bump Reminder \| Meister\#9667](https://discord.gg/dXJPy8m%20) 
-[Patner 2: Custom Bot Studio \| LilSadPanda\#9989](https://discord.gg/9hXk693XKJ)
+[Patner 2: CBVerse \| Daniel\#0001](https://discord.gg/JN668qyjbr)
 
-Hereby both Partner agrees with the upper Agreement. Last updated: 01.09.2021
+Hereby both Partner agrees with the upper Agreement. Last updated: 03.03.2021
 
-[**Check there Partnership Agreement here**](https://github.com/LilSadPanda/custombotstudio)
+[**Check there Partnership Agreement here**](https://github.com/Daniel43211/CbVerse)
 :::
 
 **The command `%custombot` gives you the power to start your Custom Bot, delete them and even change their Status.**

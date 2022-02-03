@@ -26,7 +26,7 @@ description: Check the Privacy Policy of the Bot "Bump Reminder"
 
 ### **3rd Party Data Sharing:**
 
-* By using the [Custom Bots ](https://github.com/LilSadPanda/custombotstudio)\(A service not operated by us\), you agree the Data Transfer of the user, guild related Data. Click the Link for getting further Info.
+* By using the [Custom Bots ](https://github.com/Daniel43211/CbVerse)\(A service not operated by us\), you agree the Data Transfer of the user, guild related Data. Click the Link for getting further Info.
 * **We do not share any other Data to a 3rd Party.** 
 
 ### **Questions and Concerns:**
