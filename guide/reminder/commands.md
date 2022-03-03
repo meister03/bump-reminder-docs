@@ -74,7 +74,7 @@ description: Learn more about, how to create/edit/delete General Reminders
 <command message = "%rmessage color <hexcolor>" slash = "/reminder message color [hexcolor]" description="Sets the Color of the Embed, which is sent on the Reminder Embed Message" permissions="MANAGE_SERVER"/>
 
 #### Change the Reminder Message to a Embed/Non-Embed Message:
-<command message = "%rmessage embed enable/disable" slash = "/bump message embed [status]" description="Disables or Enables Embed Mode on the Bump Remind Message" permissions="MANAGE_SERVER"/>
+<command message = "%rmessage embed enable/disable" slash = "/bremind message embed [status]" description="Disables or Enables Embed Mode on the Bump Remind Message" permissions="MANAGE_SERVER"/>
 
 #### Change the Footer of the Reminder Message:
 <command message = "%rmessage footer <message>" slash = "/reminder message footer [message]" description="Sets the Footer of the Embed, which is sent on the Reminder Message" permissions="MANAGE_SERVER" premium='true'/>

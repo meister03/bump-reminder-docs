@@ -3,7 +3,7 @@ title: Setup
 description: Learn how to setup Ticket System
 ---
 
-# Setup Welcomer
+# Setup Ticket-System
 
 #### `/ticket setup` or `%wticketsetup` will give you a overview of the command
 

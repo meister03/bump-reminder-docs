@@ -6,7 +6,7 @@ description: Recently asked questions about Bump Reminder
 
 ### How can I simulate a test remind and check my setup?
 
-* `%setup` or `/bump setup` will show your setup option
+* `%setup` or `/bremind setup` will show your setup option
 * `%test` or `/test` will simulate a test remind
 
 ### How can I delete my data/setup?
@@ -17,7 +17,7 @@ description: Recently asked questions about Bump Reminder
 
 ### Why doesn't the bot remind my server?
 
-* Check if the Bot has enough Permission through:  `%test` or `/bump test` 
+* Check if the Bot has enough Permission through:  `%test` or `/bremind test` 
 * When this already happened two times it might be a bug. Check below for more info.
 
 ### How can I suggest a feature/ report a bug?

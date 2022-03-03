@@ -18,11 +18,11 @@ description: Here you will learn, how to setup the Bump Reminder Feature
 
 #### Add a Bump Channel:
 - This adds an existing Channel as Bump Channel, where the Bump Remind Messages will be sent.
-<command message = "%setup add <#channel>" slash = "/bump setup channel [channel]" description="Add a Bump Channel, where the Bump Remind Message will be sent." permissions="MANAGE_SERVER"/>
+<command message = "%setup add <#channel>" slash = "/bremind setup channel [channel]" description="Add a Bump Channel, where the Bump Remind Message will be sent." permissions="MANAGE_SERVER"/>
 
 #### Add a Bump Remind Ping:
 - This adds an existing Roles as Bump Ping , which will be pinged on Bump Remind
-<command message = "%setup ping <@role>" slash = "/bump setup ping [role]" description="Add a Bump Remind Ping, which will pinged on the Bump Remind Message." permissions="MANAGE_SERVER"/>
+<command message = "%setup ping <@role>" slash = "/bremind setup ping [role]" description="Add a Bump Remind Ping, which will pinged on the Bump Remind Message." permissions="MANAGE_SERVER"/>
 
 ### I don't have a Bump Channel and a Role Ping:
 
