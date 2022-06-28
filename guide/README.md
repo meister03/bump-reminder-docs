@@ -23,7 +23,7 @@ navbar: true
 * [😆**Fun Commands \(Meme....\)**](othercommands/fun.md)
 * [🧾**Utility \(Misc, Info Commands\)**](othercommands/)
 
-<btn href="https://discord.com/api/oauth2/authorize?client_id=735147814878969968&permissions=805825744&scope=applications.commands%20bot">Invite Bot</btn><btn href="https://discord.gg/zhxZHFN">Join Support Server</btn>
+<btn href="https://discord.com/api/oauth2/authorize?client_id=827536878915944469&permissions=805825744&scope=applications.commands%20bot">Invite Bot</btn><btn href="https://discord.gg/zhxZHFN">Join Support Server</btn>
 
 **Go on the next Page for getting started with the Bot!**
 

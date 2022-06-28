@@ -22,7 +22,7 @@ module.exports = {
         contributors: false,
         navbar: [
             { text: 'Home', link: '/' },
-            { text: 'Invite', link: 'https://discord.com/api/oauth2/authorize?client_id=735147814878969968&permissions=805825744&scope=applications.commands%20bot' },
+            { text: 'Invite', link: 'https://discord.com/api/oauth2/authorize?client_id=827536878915944469&permissions=805825744&scope=applications.commands%20bot' },
             { text: 'Support Server', link: 'https://discord.gg/dXJPy8m ' }
         ]
     }

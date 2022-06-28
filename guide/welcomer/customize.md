@@ -1,5 +1,5 @@
 ---
-title: Custimze
+title: Customize
 description: Learn to customize your Welcomer Card and your Welcomer Message
 ---
 # Customize Welcomer

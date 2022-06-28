@@ -5,7 +5,7 @@ description: Learn how to setup Ticket System
 
 # Setup Ticket-System
 
-#### `/ticket setup` or `%wticketsetup` will give you a overview of the command
+#### `/ticket setup` or `%ticketsetup` will give you a overview of the command
 
 
 #### Enable/Disable Ticket:
