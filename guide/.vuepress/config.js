@@ -2,21 +2,21 @@
 const sidebar = require('./sidebar');
 module.exports = {
     lang: 'en-US',
-    title: 'Bump Reminder Guide',
-    description: 'The Documentation Page for Bump Reminder',
+    title: 'Fibo Guide',
+    description: 'The Documentation Page for Fibo',
     head: [
         ['meta', { charset: 'utf-8' }],
         ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-        ['meta', { property: 'og:title', content: 'Bump Reminder Guide' }],
-        ['meta', { property: 'og:description', content: 'Bump Reminder, The Best Unique Multipurpose Reminder Bot' }],
+        ['meta', { property: 'og:title', content: 'Fibo Guide' }],
+        ['meta', { property: 'og:description', content: 'Fibo, All in one Community Bot' }],
         ['meta', { property: 'og:type', content: 'website' }],
-        ['meta', { property: 'og:url', content: 'https://bumpreminder.com/' }],
+        ['meta', { property: 'og:url', content: 'https://fibobot.xyz/' }],
         ['meta', { property: 'og:locale', content: 'en_US' }],
     ],
     docsDir: 'guide',
     themeConfig: {
-        logo: './assets/favicon.ico',
         sidebar: sidebar,
+        logo: './assets/favicon.png',
         //Search:
         search: true,
         contributors: false,

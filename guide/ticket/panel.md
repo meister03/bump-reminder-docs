@@ -3,7 +3,7 @@ title: Panel
 description: Create/Edit/Delete all Panels
 ---
 
-#### `/ticket panel` or `%wticketpanel` will give you a overview of the command
+#### `/ticket panel` or `%ticketpanel` will give you a overview of the command
 
 **With this Command you can create a customizable Ticket Panel, which will be sent in the Ticket create Channel and with whom Users can create Tickets**
 

@@ -109,7 +109,7 @@ export default {
   margin-bottom: 2px;
   border-style: solid;
   border-width: 4px;
-  border-radius: 7px;
+  border-radius: 4px;
   text-align: left;
   font-size: 1em;
   background-color: #36393f;
@@ -122,7 +122,7 @@ export default {
   border-color: #40444b;
   border-style: solid;
   border-width: 2px;
-  border-radius: 7px;
+  border-radius: 7px 7px 5px 5px ;
   display: flex;
   font-size: 0.9em;
   margin: 0px;
@@ -147,6 +147,7 @@ export default {
 
 .commandname.info {
   margin-top: 0.2em;
+  border-radius: 0px 0px 7px 7px;
 }
 
 .commandoptions.orange {

@@ -4,21 +4,20 @@ description: The Best Unique Multi Purpose Reminder
 navbar: true
 ---
 
-# Bump Reminder Documentation:
+# Fibo Documentation:
 
-**Bump Reminder is a cool bot, which supports your community with cool features!**
+**Fibo is a cool bot, which supports your community with cool features!**
 
 * [🔔**Bump Remind**](bumpreminder/)
 * [⏰**General Reminders \(Interval, Action & Remindme\)**](reminder/)
 * [**⬆️Vote Tracker/Reminder \(+ Rewards\)**](votetracker/)
 * [**❓ Question of the Day \(QOTD\)**](qotd/)
+* [**❓ FAQ System (Docs on Progress)**](faq/)
 * [🔢**Counting \(Waste your time, but it is funny\)**](counting/)
 * [🌙**Customizable AFK-System**](afk/)
 * [**🤗Customizable Welcomer**](welcomer/)
 * [💎**Server Boost Tracking & Managing** ](boosttracker/)
 * [🎫**Ticket System** ](ticket/)
-* [👮‍♂️**Moderation**](moderation/)
-* [📑**Event Logging**](eventlogging/)
 * [💡**Suggestion board**](suggestion/)
 * [😆**Fun Commands \(Meme....\)**](othercommands/fun.md)
 * [🧾**Utility \(Misc, Info Commands\)**](othercommands/)
