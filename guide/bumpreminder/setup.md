@@ -29,12 +29,12 @@ description: Here you will learn, how to setup the Bump Reminder Feature
 #### Create a Bump Channel:
 - This will create a locked Bump Channel and add it as Bump Channel, where Remind Messages will be sent.
 - To make it public edit the Channel Settings
-<command message = "%setup create" slash = "Non Exist" description="Creates a Bump Channel, where the Bump Remind Message will be sent." permissions="MANAGE_SERVER"/>
+<command message = "%setup create" slash = "Use Message Command" description="Creates a Bump Channel, where the Bump Remind Message will be sent." permissions="MANAGE_SERVER"/>
 
 #### Create a Bump Remind Ping:
 - This will create a role named `Remind Me` and add it as Bump Ping
 - On Bump Remind, the Bot will ping the created Role
-<command message = "%setup ping create" slash = "Non Exist" description="Creates a Bump Remind Ping, which will pinged on the Bump Remind Message." permissions="MANAGE_SERVER"/>
+<command message = "%setup ping create" slash = "Use Message Command" description="Creates a Bump Remind Ping, which will pinged on the Bump Remind Message." permissions="MANAGE_SERVER"/>
 
 
 

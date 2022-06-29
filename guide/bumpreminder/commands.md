@@ -8,14 +8,8 @@ description: Learn more about Bump Reminder related Commands
 #### Add a Bump Channel:
 <command message = "%setup add <#channel>" slash = "/bremind setup channel [channel]" description="Add a Bump Channel, where the Bump Remind Message will be sent." permissions="MANAGE_SERVER"/>
 
-#### Create a Bump Channel:
-<command message = "%setup create" slash = "Non Exist" description="Creates a Bump Channel, where the Bump Remind Message will be sent." permissions="MANAGE_SERVER"/>
-
 #### Add a Bump Remind Ping:
 <command message = "%setup ping <@role>" slash = "/bremind setup ping [role]" description="Add a Bump Remind Ping, which will pinged on the Bump Remind Message." permissions="MANAGE_SERVER"/>
-
-#### Create a Bump Remind Ping:
-<command message = "%setup ping create" slash = "Non Exist" description="Creates a Bump Remind Ping, which will pinged on the Bump Remind Message." permissions="MANAGE_SERVER"/>
 
 ### Customize Remind Message Command
 
